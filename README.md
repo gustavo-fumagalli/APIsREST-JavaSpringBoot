@@ -1,3 +1,10 @@
-﻿# spring-boot
+Projeto: API REST CRUD - Java Spring Boot
 
-CRUD simples utilizando em java com spring boot.
+Tecnologias:
+Java
+Spring Boot
+REST API
+Postman
+
+Descrição:
+API simples para cadastro e gerenciamento de dados utilizando operações CRUD.
